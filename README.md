@@ -63,7 +63,7 @@ set -e
 trap 'echo "Error occurred"; exit 1;' ERR```
 
 
-🚀 How to Run Scripts
+ How to Run Scripts
 
 Give execute permission:
 
